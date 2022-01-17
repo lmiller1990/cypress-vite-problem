@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@cypress/vue": "^3.1.0",
+    "vue": "^3.2.27"
+  },
+  "devDependencies": {
+    "@cypress/vite-dev-server": "^2.2.2",
+    "@vitejs/plugin-vue": "^2.0.1",
+    "cypress": "^9.2.1",
+    "vite": "^2.7.12"
+  }
+}
